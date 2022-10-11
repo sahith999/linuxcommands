@@ -1,0 +1,2 @@
+command:cat
+options:cat [OPTION] [FILE]
