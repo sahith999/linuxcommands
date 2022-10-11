@@ -1,0 +1,4 @@
+command:sudo
+options:-k or –reset-timestamp invalidates the timestamp file
+-g or –group=group runs commands as a specified group name or ID
+-h or –host=host runs commands on the host
